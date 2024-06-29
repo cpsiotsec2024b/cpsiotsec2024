@@ -227,46 +227,41 @@ about these policies, please contact the chairs.
 * Kassem M. Fawaz, University of Wisconsin, USA
 
 ## Technical Program Committee
-<!--
-* Alessandro Brighente	University of Padua	
-* Álvaro Cárdenas	UC Santa Cruz	
-* Amir Rahmati	Stony Brook University		
-* Awais Rashid	University of Bristol	
-* Charalambos Konstantinou	KAUST	
-* Cristina Alcaraz	University of Malaga
-* Ebelechukwu Nwafor	Villanova	
-* Emil Lupu	Imperial College London
-* Gang Tan	Penn State	
-* George Stergiopoulos	University of the Aegean
-* Gerhard Hancke	City University of Hong Kong
-* Habiba Farrukh	Purdue University
-* Hervé Debar	Telecom SudParis
-* Le Guan	University of Georgia
-* Luis Garcia	University of Southern California, Information Sciences Institute
-* Marina Krotofil Hamburg University of Technology
-* Marios Anagnostopoulos Aalborg University
-* Mauro Conti	University of Padua
-* Mikael Asplund Linköping University
-* Monowar Hasan	Washington State University
-* Muslum Ozgur Ozmen	Purdue University
-* Nils Ole Tippenhauer	CISPA Helmholtz Center for Information Security
-* Pablo Picazo-Sanchez	Halmstad University
-* Peng Liu	The Pennsylvania State University
-* Saman Zonouz	Georgia Institute of Technology	
-* Shahid Raza RISE Research Institutes of Sweden
-* Sokratis Katsikas	Norwegian University of Science & Technology	
-* Sridhar Adepu	University of Bristol
-* Stefano Longari	Politecnico di Milano
-* Takami Sato University of California Irvine
-* Vasileios Gkioulos	Norwegian University of Science and Technology	
-* Weizhi Meng	Technical University of Denmark	
-* Yongkai Fan	State Key Laboratory of Media Convergence and Communication, China University of Communication
-* Yuqing Zhang	National Computer Network Intrusion Protection Center, University of Chinese Academy of Sciences
--->
-
-
-
-
+* Alessandro Brighente, University of Padua
+* Amir Rahmati, Stony Brook University
+* Awais Rashid, University of Bristol
+* Cristina Alcaraz, University of Malaga
+* Emil Lupu, Imperial College London
+* Gang Tan, Penn State
+* George Stergiopoulos, University of the Aegean
+* Gerhard Hancke, City University of Hong Kong
+* Habiba Farrukh, Purdue University
+* Kassem Fawaz, University of Wisconsin-Madison
+* Le Guan, University of Georgia
+* Luis Garcia, University of Utah
+* Luis Salazar, UC Santa Cruz
+* Magnus Almgren, Chalmers University of Technology
+* Marina Krotofil, MaK security
+* Marios Anagnostopoulos, Aalborg University
+* Mauro Conti, University of Padua
+* Mikael Asplund, Link√∂ping University
+* Monowar Hasan, Washington State University
+* Muslum Ozgur Ozmen, Purdue University & Arizona State University
+* Nils Ole, Tippenhauer, CISPA Helmholtz Center for Information Security
+* Pablo Picazo-Sanchez, Halmstad University. Halmstad. Sweden
+* Peng Liu, The Pennsylvania State University
+* Rishabh Khandelwal, University of Wisconsin-Madison
+* Sachin Kumar, Singh	University of Utah
+* Saman Zonouz, Georgia Institute of Technology
+* Sara Rampazzi, University of Florida
+* Shimaa Ahmed, Visa Research
+* Sokratis Katsikas, Norwegian University of Science & Technology
+* Sridhar Adepu, University of Bristol
+* Stefano Longari, Politecnico di Milano
+* Vasileios Gkioulos, Norwegian University of Science and Technology
+* Weizhi Meng, Technical University of Denmark
+* Yongkai Fan, State Key Laboratory of Media Convergence and Communication, China University of Communication
+* Yuqing Zhang, National Computer Network Intrusion Protection Center, University of Chinese Academy of Sciences
 
 ## Steering Committee
 * Rakesh Bobba, Oregon State University
