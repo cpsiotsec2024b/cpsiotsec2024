@@ -96,7 +96,6 @@ and those that can set research agendas and priorities in CPS/IoT security and p
     <td class="tg-0pky" colspan="2"><span style="font-weight:400;font-style:normal"><b>Keynote: Physics and Security: Then and Now</b>, Álvaro Cárdenas (University of California, Santa Cruz)</span> <br />
 	    <b>Abstract:</b> In this talk we will cover the state of Cyber-Physical Systems (CPS) security in 2007 and how it has evolved in almost two decades. In particular, attacks that were only hypothetical two decades ago have been developed and deployed by researchers and malicious foreign actors. To defend and anticipate future threats, our research community has adopted well-known models of the physical world to understand the risks of attacks, to detect attacks, and to recover from attacks. We will summarize these cases through examples from industrial control systems, the power grid, and autonomous vehicles.
     </td>  
-    </td>
   </tr>
   <tr>
     <td class="tg-0pky"></td>
