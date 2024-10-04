@@ -56,16 +56,20 @@ Also of interest will be papers that can point the research community to new res
 and those that can set research agendas and priorities in CPS/IoT security and privacy.
 **There will be a best paper award.**
 
-<!--
+
 ## Program
 
+<!--
 **Best paper award 2023:** <br />
 **&emsp;&emsp;&emsp;Brain-Hack: Remotely Injecting False Brain-Waves with RF to Take Control of a Brain-Computer Interface. Alexandre Armengol-Urpi, Reid Kovacs, and Sanjay E. Sarma** &emsp;<a href="https://dl.acm.org/doi/10.1145/3605758.3623497" target="_blank">https://dl.acm.org/doi/10.1145/3605758.3623497</a> 
+-->
 
+<!--
 * Short paper: 20 minutes
 * Regular paper: 30 minutes
 * Demo/Abstract: 20 minutes
-
+-->
+  
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;
@@ -80,112 +84,135 @@ and those that can set research agendas and priorities in CPS/IoT security and p
 <table class="tg">
 <tbody>
   <tr>
-    <td class="tg-0pky">9:00 - 9:15</td>
-    <td class="tg-0pky" colspan="2"><span style="font-weight:400;font-style:normal">Opening Remarks (Magnus Almgren)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">9:15 - 10:00</td>
-    <td class="tg-0pky" colspan="2"><span style="font-weight:400;font-style:normal">Keynote 1: Security and privacy challenges for next generation communication and computational infrastructures and applications, Maria Kihl (Lund University, Sweden)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">10:00 - 10:30</td>
-    <td class="tg-0pky" colspan="2">Break</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">10:30 - 12:20</td>
-    <td class="tg-0pky" colspan="2"><span style="font-weight:400;font-style:normal">Session 1: Assessment and Mitigation Strategies. Session Chair: Shahid Raza</span></td>
+    <td class="tg-0pky">9:00 - 10:30</td>    
+    <td class="tg-0pky" colspan="2"><span style="font-weight:400;font-style:normal"><b>Session 1: Security in the Physical World</b></span></td>
   </tr>
   <tr>
     <td class="tg-0pky"></td>
-    <td class="tg-f8tv">(full paper)</td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Firmulti Fuzzer: Discovering Multi-process Vulnerabilities in IoT Devices with Full System Emulation and VMI</span></td>
+    <td class="tg-0pky" colspan="2"><span style="font-weight:400;font-style:normal"><b>Opening Remarks</b>, Kassem Fawaz (University of Wisconsin-Madison)</span></td>    
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky" colspan="2"><span style="font-weight:400;font-style:normal"><b>Keynote: Physics and Security: Then and Now</b>, Álvaro Cárdenas (University of California, Santa Cruz)</span> <br />
+	    <b>Abstract:</b> In this talk we will cover the state of Cyber-Physical Systems (CPS) security in 2007 and how it has evolved in almost two decades. In particular, attacks that were only hypothetical two decades ago have been developed and deployed by researchers and malicious foreign actors. To defend and anticipate future threats, our research community has adopted well-known models of the physical world to understand the risks of attacks, to detect attacks, and to recover from attacks. We will summarize these cases through examples from industrial control systems, the power grid, and autonomous vehicles.
+    </td>  
+    </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky" colspan="2"><span style="font-weight:400;font-style:normal"><b>ICSNet: A Hybrid-Interaction Honeynet for Industrial Control Systems.</b> Luis Salazar (University of California Santa Cruz), Efrén López-Morales (Texas A&M University-Corpus Christi), Juan Lozano (UC Santa Cruz), Carlos Rubio-Medrano (Texas A&M University-Corpus Christi), Álvaro Cárdenas (University of California, Santa Cruz)</span></td>
+  </tr>
+ 
+  <tr>
+    <td class="tg-0lax">10:30 - 11:00</td>
+    <td class="tg-0lax" colspan="2"><b>Morning Coffee Break</b></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">11:00 - 12:00</td>
+    <td class="tg-0lax" colspan="2"><span style="font-weight:400;font-style:normal"><b>Session 2: Developer and End User Engagement</b> – Full Papers</span></td>
   </tr>
   <tr>
     <td class="tg-0lax"></td>
-    <td class="tg-8zwo">(full paper)</td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Water Risk-Proofed: Risk Assessment in Water Desalination</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal"><b>RTFM: How hard are IoT platform providers making it for their developers?</b> Andy Baldrian (University of Bristol), Joseph Hallett (University of Bristol)
+</span></td>
   </tr>
   <tr>
     <td class="tg-0lax"></td>
-    <td class="tg-8zwo">(full paper)</td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Remote Attestation of IoT Devices using Physically Unclonable Functions: Recent Advancements and Open Research Challenges</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal"><b>"If you build it, they will come" - A blueprint for ICS-focused Capture-The-Flag Competitions.</b> Joseph Gardiner (University of Bristol), Stanislav Abaimov (University of Bristol), Jacob Williams (University of Bristol), Feras Shahbi (University of Bristol), Konstantinos Anastasakis (University of Bristol), Partha Das Chowdhury (University of Bristol), Winston Ellis (University of Bristol), Maria Sameen (University of Bristol), Emmanouil Samanis (University of Bristol), Awais Rashid (University of Bristol)
+</span></td>
   </tr>
   <tr>
     <td class="tg-0lax"></td>
-    <td class="tg-8zwo">(demo)</td>
-    <td class="tg-0lax">From DDoSim to DDoSimQ: Enhancing DDoS Attack Simulation Through Full System Emulation</td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal"><b>Transforming In-Vehicle Network Intrusion Detection: VAE-based Knowledge Distillation Meets Explainable AI.</b> Muhammet Anıl Yağız (Clemson University and Kırıkkale University), Pedram MohajerAnsari (Clemson University), Mert D. Pesé (Clemson University), Polat Goktas (University College Dublin)</span></td>
+  </tr>
+
+
+
+  <tr>
+    <td class="tg-0lax">12:00 - 13:30</td>
+    <td class="tg-0lax" colspan="2"><b>Lunch</b></td>
   </tr>
   <tr>
-    <td class="tg-0lax">12:20 - 13:30</td>
-    <td class="tg-0lax" colspan="2">Lunch Break</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">13:30 - 15:30</td>
-    <td class="tg-0lax" colspan="2"><span style="font-weight:400;font-style:normal">Session 2: Adversarial Exploitation and Compiler Insights in Real-World Systems. Session Chair: Charalambos Konstantinou</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-8zwo">(full paper)</td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Towards Adversarial Process Control on Inertial Sensor Systems with Physical Feedback Side Channels</span></td>
+    <td class="tg-0lax">13:30 - 15:00</td>
+    <td class="tg-0lax" colspan="2"><span style="font-weight:400;font-style:normal"><b>Session 3: Security and Privacy in Collaborative Systems</b> – Short Papers</span></td>
   </tr>
   <tr>
     <td class="tg-0lax"></td>
-    <td class="tg-8zwo">(full paper)</td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Brain-Hack: Remotely Injecting False Brain-Waves with RF to Take Control of a Brain-Computer Interface</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal"><b>Towards Linking Indicators of Compromise to Operational Resilience and Safety Requirements.</b> Konstantinos Anastasakis (University of Bristol), Awais Rashid (University of Bristol)
+</span></td>
   </tr>
   <tr>
     <td class="tg-0lax"></td>
-    <td class="tg-8zwo">(short paper)</td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">The Internet of Insecure Cows - A security analysis of wireless smart devices used for dairy farming</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal"><b>Detecting Mobile Crowdsensing Sybil Attackers via Presence Verification.</b>  
+Cihan Eryonucu (KTH Royal Institute of Technology), Panos Papadimitratos (KTH Royal Institute of Technology)</span></td>
   </tr>
   <tr>
     <td class="tg-0lax"></td>
-    <td class="tg-8zwo">(short paper)</td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">SweetCam: an IP Camera Honeypot</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal"><b>Three Taps for Secure Machine-to-Machine Communication: Towards High Assurance yet Fully Local Machine Pairing.</b>  
+Sibylle Fröschle (Hamburg University of Technology), Martin Kubisch (Airbus CRT)</span></td>
   </tr>
   <tr>
     <td class="tg-0lax"></td>
-    <td class="tg-8zwo">(short paper)</td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Towards PLC-specific Binary Analysis Tools: An Investigation of Codesys-compiled PLC Software Applications</span></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">15:30 - 16:00</td>
-    <td class="tg-0lax" colspan="2">Break</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">16:00 - 16:45</td>
-    <td class="tg-0lax" colspan="2"><span style="font-weight:400;font-style:normal">Keynote 2: IoT and Web, Friend or Foe? Security and Privacy of Internet of Things Apps, Musard Balliu (KTH, Sweden)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">16:45 - 16:50</td>
-    <td class="tg-0lax" colspan="2">Short Break</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">16:50 - 17:30</td>
-    <td class="tg-0lax" colspan="2"><span style="font-weight:400;font-style:normal">Session 3: Device Identification and Anonymization. Session Chair: Emil C. Lupu</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal"><b>Detection of Wake Word Jamming.</b>  
+Prathyusha Sagi (University College Cork), Arun Sankar (South East Technological University), Utz Roedig (University College Cork)</span></td>
   </tr>
   <tr>
     <td class="tg-0lax"></td>
-    <td class="tg-8zwo">(short paper)</td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Granular IoT Device Identification Using TF-IDF and Cosine Similarity</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal"><b>Exploring Usability of Data Flow Visualizations in a Privacy-focused Smart Home Dashboard.</b>Brennan Vanden Bos (Western Washington University), Victor Calzada (Western Washington University), Raghav Puri (Woodinville High School), Shrirang Mare (Western Washington University)</span></td>
   </tr>
   <tr>
     <td class="tg-0lax"></td>
-    <td class="tg-8zwo">(short paper)</td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Privacy through Diffusion: A White-listing Approach to Sensor Data Anonymization</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal"><b>Stealthy Data Fabrication in Collaborative Vehicular Perception.</b>  
+Qingzhao Zhang (University of Michigan), Morley Mao (University of Michigan and Google)</span></td>
+  </tr>
+
+  <tr>
+    <td class="tg-0lax">15:00 - 15:30</td>
+    <td class="tg-0lax" colspan="2"><b>Afternoon Coffee Break</b></td>
+  </tr>
+
+  <tr>
+    <td class="tg-0lax">15:30 - 17:00</td>
+    <td class="tg-0lax" colspan="2"><span style="font-weight:400;font-style:normal"><b>Session 4: Detection in Critical Systems</b> – Full Papers</span></td>
   </tr>
   <tr>
-    <td class="tg-0lax">17:30 - 17:45</td>
-    <td class="tg-0lax" colspan="2"><span style="font-weight:400;font-style:normal">Finish best paper voting process</span></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal"><b>IntelliMD: A Hybrid Approach for Local Misbehaviour Detection in Cooperative Intelligent Transport Systems.</b> Mohamed Ahzam Amanullah (Deakin University), Mohan Baruwal Chhetri (CSIRO's Data61), Seng W. Loke (Deakin University), Robin Doss (Deakin University)
+</span></td>
   </tr>
   <tr>
-    <td class="tg-0lax">17:45 - 18:00</td>
-    <td class="tg-0lax" colspan="2"><span style="font-weight:400;font-style:normal">Best paper announcement, Closing Remarks (Magnus Almgren)</span></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal"><b>BT²X: Multi-Leveled Binary Transparency to Protect the Software Supply Chain of Operational Technology.</b>  
+Michael P. Heinl (Technical University of Munich / Fraunhofer AISEC / Munich University of Applied Sciences HM), Victor Embacher (Technical University of Munich / Fraunhofer AISEC)</span></td>
   </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal"><b>EmbedWatch: Fat Pointer Solution for Detecting Spatial Memory Errors in Embedded Systems.</b>  Davide Rusconi (University of Milan), Matteo Zoia (University of Milan), Luca Buccioli (University of Milan), Fabio Pierazzi (King's College London), Danilo Bruschi (University of Milan), Lorenzo Cavallaro (University College London), Flavio Toffalini (EPFL), Andrea Lanzi (University of Milan)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal"><b>An Intelligent Hierarchical Framework for Efficient Fault Detection and Diagnosis in Nuclear Power Plants.</b>  
+Jean C Tonday Rodriguez (Florida International University), David Perry (Florida International University), Mohammad Ashiqur Rahman (Florida International University), Syed Alam (University of Illinois Urbana-Champaign)</span></td>
+  </tr>
+  
+  <tr>
+    <td class="tg-0lax">17:00 - 17:30</td>
+    <td class="tg-0lax" colspan="2"><b>Session 5: Wrap-up</b></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal"><b>Finish best paper voting process</b></span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal"><b>Best paper announcement, Closing Remarks (Kassem Fawaz)
+</b></span></td>
+  </tr>
+  
 </tbody>
 </table>
 
--->
+
 
 ## Submission Guidelines
 
