@@ -85,7 +85,8 @@ and those that can set research agendas and priorities in CPS/IoT security and p
 <tbody>
   <tr>
     <td class="tg-0pky">9:00 - 10:30</td>    
-    <td class="tg-0pky" colspan="2"><span style="font-weight:400;font-style:normal"><b>Session 1: Security in the Physical World</b></span></td>
+    <td class="tg-0pky" colspan="2"><span style="font-weight:400;font-style:normal">**Session 1: Security in the Physical World**
+    </span></td>
   </tr>
   <tr>
     <td class="tg-0pky"></td>
