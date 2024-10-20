@@ -59,10 +59,10 @@ and those that can set research agendas and priorities in CPS/IoT security and p
 
 ## Program
 
-<!--
-**Best paper award 2023:** <br />
-**&emsp;&emsp;&emsp;Brain-Hack: Remotely Injecting False Brain-Waves with RF to Take Control of a Brain-Computer Interface. Alexandre Armengol-Urpi, Reid Kovacs, and Sanjay E. Sarma** &emsp;<a href="https://dl.acm.org/doi/10.1145/3605758.3623497" target="_blank">https://dl.acm.org/doi/10.1145/3605758.3623497</a> 
--->
+
+**Best paper award 2024:** <br />
+**&emsp;&emsp;&emsp;ICSNet: A Hybrid-Interaction Honeynet for Industrial Control Systems. Luis Salazar (University of California Santa Cruz), Efrén López-Morales (Texas A&M University-Corpus Christi), Juan Lozano (UC Santa Cruz), Carlos Rubio-Medrano (Texas A&M University-Corpus Christi), Álvaro Cárdenas (University of California, Santa Cruz)** <!-- &emsp;<a href="https://dl.acm.org/doi/10.1145/3605758.3623497" target="_blank">https://dl.acm.org/doi/10.1145/3605758.3623497</a> -->
+
 
 <!--
 * Short paper: 20 minutes
